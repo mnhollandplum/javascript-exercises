@@ -4,6 +4,8 @@ This is a collection of exercises to practice various aspects of JavaScript.
 
 Practicing in this manner (small, bite-sized problems that you can do repeatedly) is a _fantastic_ way to solidify programming concepts.
 
+sfasfasfasfasf
+
 Each folder in this repository is a set of related exercises. Open up the folder and read the README to learn more about them.
 
 ## Structure of this repository
